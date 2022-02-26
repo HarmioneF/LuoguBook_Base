@@ -18,3 +18,4 @@ add_executable(L1-11 Part1/Chapter1/L1-11.cpp)
 
 # Chapter 2
 add_executable(L2-1 Part1/Chapter1/L2-1.cpp)
+add_executable(L2-2 Part1/Chapter1/L2-2.cpp)
