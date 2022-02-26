@@ -36,3 +36,4 @@ add_executable(P2181 Part1/Chapter2/P2181.cpp)
 
 # Chapter 3
 add_executable(L3-1 Part1/Chapter3/L3-1.cpp)
+add_executable(L3-2 Part1/Chapter3/L3-2.cpp)
